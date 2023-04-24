@@ -1,4 +1,4 @@
-public class FindCharInStr {
+public class indexOf {
     public static void main(String[] arg) {
         String str = "Hello my name is Chetan";
         int index = str.indexOf("my");
