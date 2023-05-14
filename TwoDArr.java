@@ -10,7 +10,7 @@ public class TwoDArr {
 
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
-                num[i][j] = sc.nextInt();
+                num[i][j] = sc.nextInt(); // getting matrix element
             }
         }
 
