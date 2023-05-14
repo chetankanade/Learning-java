@@ -7,7 +7,5 @@ public class Main {
         System.out.println(age);
         System.out.println(price);
 
-        System.out.println(age + price);
-
     }
 }

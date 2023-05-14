@@ -8,9 +8,6 @@ public class FirstInput {
             String fullName = sc.nextLine();
             System.out.println(name);
             System.out.println(fullName);
-
-            // nextInt() is used to get input as a integer
-            // nextfloat() is used to get input as a float(decimal)
         }
     }
 }
