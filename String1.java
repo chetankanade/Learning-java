@@ -28,13 +28,17 @@ public class String1 {
 
         // use of == for comapring strings
         if (name1 == name2) {
-            System.out.println("Strings are Equals");
+            // System.out.println("Strings are Equals");
         } else {
-            System.out.println("Strings are Not eq");
+            // System.out.println("Strings are Not eq");
         } // this == works but sometime it wont work
 
         // example
-        // if(new String("Chetan") == new Strin )
+        if (new String("Chetan") == new String("Chetan")) {
+            System.out.println("String are equal");
+        } else {
+            System.out.println("String are not eq");
+        }
 
     }
 }
