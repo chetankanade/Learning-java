@@ -7,7 +7,7 @@ public class StringAppend {
         sb.append("e");
         sb.append("l");
         sb.append("l");
-        System.out.println(sb);
+        System.out.println(sb.length());
     }
 
 }
